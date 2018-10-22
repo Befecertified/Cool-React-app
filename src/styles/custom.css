@@ -1,0 +1,27 @@
+#app {
+    margin-top: 20px;
+    font-size: 14px;
+}
+.counter {
+    margin: 5px;
+    padding: 4px 8px;
+    border-radius: 5px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+}
+.count {
+   background: dodgerblue; 
+}
+.default {
+    background: goldenrod;
+    color: black;
+}
+button {
+    padding: 16px;
+    border-radius: 5px;
+    background: #888;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
